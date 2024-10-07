@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicMeditationTimer</string>
+    <string name="timer_label">TIMER</string>
+    <string name="warning_label">DING</string>
+    <string name="timer_unit">min</string>
+    <string name="warning_unit">sec before</string>
+    <string name="timer_hint">Enter your meditation time.</string>
+    <string name="warning_hint">Enter how early you want to be reminded of the end.</string>
+    <string name="start_btn_label">START</string>
+</resources>
