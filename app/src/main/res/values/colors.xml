@@ -10,4 +10,5 @@
 
     <color name="colorAccent">#24925d</color>
     <color name="background">#313131</color>
+    <color name="grey">#7A7A7A</color>
 </resources>

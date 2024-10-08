@@ -7,4 +7,5 @@
     <string name="timer_hint">Enter your meditation time.</string>
     <string name="warning_hint">Enter how early you want to be reminded of the end.</string>
     <string name="start_btn_label">START</string>
+    <string name="countdown">00:00</string>
 </resources>
